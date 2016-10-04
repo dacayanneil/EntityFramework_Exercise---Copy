@@ -49,6 +49,11 @@ namespace EntityFramework_BL
             return null;
         }
 
+        public void test()
+        {
+
+        }
+
         public bool CreateNewSalesReason(SalesReason input)
         {
             bool returnValue = false;
